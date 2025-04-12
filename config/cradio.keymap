@@ -17,7 +17,7 @@
 #define MOUSE 4
 
 / {
-    chosen { zmk,charmap = &charmap_us; };
+    chosen { zmk,charmap = &charmap_uk; };
 
     behaviors {
         ht: hold_tap {
